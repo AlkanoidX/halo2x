@@ -1,0 +1,475 @@
+{
+ "chunk": 8388608,
+ "size": 4658876111,
+ "chunks": 556,
+ "files": [
+  {
+   "name": "default.xbe",
+   "offset": 0,
+   "size": 4861952,
+   "sha1": "78bcc597d9a30ae91df6fc5eb44fdc62a28ee7f2"
+  },
+  {
+   "name": "media/ArialUni.Ttf",
+   "offset": 4861952,
+   "size": 23274572,
+   "sha1": "d9a78e55980c6db61d46edbbfb4fd3589c1089c6"
+  },
+  {
+   "name": "media/Sound.xsb",
+   "offset": 28136524,
+   "size": 684,
+   "sha1": "026fc8656e31a60ad55e1273c26245396998c893"
+  },
+  {
+   "name": "media/Wave.xwb",
+   "offset": 28137208,
+   "size": 190012,
+   "sha1": "ffdf72d1aae5c28f80d02665981fb540e8a1b998"
+  },
+  {
+   "name": "media/command line.txt",
+   "offset": 28327220,
+   "size": 550,
+   "sha1": "6bcf6f0738412b4889e6ec4c4e9c65333cadf2a2"
+  },
+  {
+   "name": "media/dlcustom.rdf",
+   "offset": 28327770,
+   "size": 497,
+   "sha1": "d28db61b024e56871202f0f73b530ec5e0b4c72f"
+  },
+  {
+   "name": "media/dlcustom.xpr",
+   "offset": 28328267,
+   "size": 1574912,
+   "sha1": "c0461442469307da0b93048074271d9f66473d10"
+  },
+  {
+   "name": "media/dlres.rdf",
+   "offset": 29903179,
+   "size": 2845,
+   "sha1": "641bc72064d8922573b9fa68dcca32e7aa5cc357"
+  },
+  {
+   "name": "media/dlres.xpr",
+   "offset": 29906024,
+   "size": 280576,
+   "sha1": "3d739f8fa85190d31e62459af16b6b0ddb94dab8"
+  },
+  {
+   "name": "maps/fonts/MSLCD-14",
+   "offset": 30186600,
+   "size": 418253,
+   "sha1": "ea04f07625e8728b5c68d7c10157199952cac253"
+  },
+  {
+   "name": "maps/fonts/arial-13",
+   "offset": 30604853,
+   "size": 358563,
+   "sha1": "fec90f830cf8d551b175ef747ec2395758fbf3be"
+  },
+  {
+   "name": "maps/fonts/arial-14",
+   "offset": 30963416,
+   "size": 374978,
+   "sha1": "640f02dea7aaf5abf86e378e7ed8d21a6f4ff2c2"
+  },
+  {
+   "name": "maps/fonts/cht_DFT_R5_MSLCD-14",
+   "offset": 31338394,
+   "size": 1893341,
+   "sha1": "7ff8fb6409ec828e3acc2e52824a354b57e99a48"
+  },
+  {
+   "name": "maps/fonts/cht_DFT_R5_conduit-12",
+   "offset": 33231735,
+   "size": 1445244,
+   "sha1": "2880e0c0de125eeef83a39d41b9db9f289bae57c"
+  },
+  {
+   "name": "maps/fonts/cht_DFT_R5_conduit-13",
+   "offset": 34676979,
+   "size": 1516650,
+   "sha1": "4d2bd885442150f123017b04380843993a631e45"
+  },
+  {
+   "name": "maps/fonts/cht_DFT_R5_conduit-16",
+   "offset": 36193629,
+   "size": 2089334,
+   "sha1": "12d46959d0f84716b275ca0562be96ebf4364455"
+  },
+  {
+   "name": "maps/fonts/cht_DFT_R5_h_g-11",
+   "offset": 38282963,
+   "size": 1369975,
+   "sha1": "398b36dbb5cb36c8d8985c69a42586dae0124e9c"
+  },
+  {
+   "name": "maps/fonts/cht_DFT_R5_h_g-13",
+   "offset": 39652938,
+   "size": 1516237,
+   "sha1": "38959d16cc5f96921c1f73795077a416f5e28bdb"
+  },
+  {
+   "name": "maps/fonts/cht_DFT_R5_h_g-24",
+   "offset": 41169175,
+   "size": 3457308,
+   "sha1": "b281779247f33e7db32639b7f1c9c9c4bf744ebd"
+  },
+  {
+   "name": "maps/fonts/conduit-12",
+   "offset": 44626483,
+   "size": 436791,
+   "sha1": "6d4bf065a6355aa08a0189cb9969d6f5af55ce99"
+  },
+  {
+   "name": "maps/fonts/conduit-13",
+   "offset": 45063274,
+   "size": 437344,
+   "sha1": "06c00c03d76652c0048717ad33434eef941145cd"
+  },
+  {
+   "name": "maps/fonts/conduit-16",
+   "offset": 45500618,
+   "size": 440022,
+   "sha1": "945e9fae3cdb5b8803b12956b51175df189ad93b"
+  },
+  {
+   "name": "maps/fonts/fixedsys-9",
+   "offset": 45940640,
+   "size": 321338,
+   "sha1": "a07f2967a6e9d1b5784644078d4b2784ef2f702a"
+  },
+  {
+   "name": "maps/fonts/font_table.txt",
+   "offset": 46261978,
+   "size": 146,
+   "sha1": "967341282189010f5b622fc57c29b62b8523e279"
+  },
+  {
+   "name": "maps/fonts/font_table_cht.txt",
+   "offset": 46262124,
+   "size": 226,
+   "sha1": "10b6c32322eb418b4d3f5cddb9b31eecec98c923"
+  },
+  {
+   "name": "maps/fonts/font_table_jpn.txt",
+   "offset": 46262350,
+   "size": 292,
+   "sha1": "a54ba8dc4cd937878ff1d2e638a1bbd2cce9976b"
+  },
+  {
+   "name": "maps/fonts/font_table_kor.txt",
+   "offset": 46262642,
+   "size": 276,
+   "sha1": "cda1021ebd65e540b93188e065967734e07b9fc1"
+  },
+  {
+   "name": "maps/fonts/handel_gothic-11",
+   "offset": 46262918,
+   "size": 437452,
+   "sha1": "3a36ad0a7bd076c4ce8240a4180f90ac84e1e5f9"
+  },
+  {
+   "name": "maps/fonts/handel_gothic-13",
+   "offset": 46700370,
+   "size": 440166,
+   "sha1": "9aaff4e3364c1b008b17608a8a5d7b3eb950daa8"
+  },
+  {
+   "name": "maps/fonts/handel_gothic-14",
+   "offset": 47140536,
+   "size": 428762,
+   "sha1": "4b9534004c4137ae4eea09364827d4276a69bc58"
+  },
+  {
+   "name": "maps/fonts/handel_gothic-24",
+   "offset": 47569298,
+   "size": 448866,
+   "sha1": "e34ee069a1f7e2a206e51ef705561834bf94717c"
+  },
+  {
+   "name": "maps/fonts/jpn_DFGHSMGoth_anti_MSLCD-14",
+   "offset": 48018164,
+   "size": 1393848,
+   "sha1": "4583a8a18138e017d03c8500d4d41a0f78738108"
+  },
+  {
+   "name": "maps/fonts/jpn_DFGHSMGoth_anti_con-12",
+   "offset": 49412012,
+   "size": 1236666,
+   "sha1": "7875aef415dcaad829b2a9178a5e4168e8a16f60"
+  },
+  {
+   "name": "maps/fonts/jpn_DFGHSMGoth_anti_con-13",
+   "offset": 50648678,
+   "size": 1294402,
+   "sha1": "44d2fde1a82799068ddb02eccb2f78d432819f73"
+  },
+  {
+   "name": "maps/fonts/jpn_DFGHSMGoth_anti_con-16",
+   "offset": 51943080,
+   "size": 1526273,
+   "sha1": "288ca51f0bfa817462920eb84334a5490b9345a1"
+  },
+  {
+   "name": "maps/fonts/jpn_DFGHSMGoth_anti_h_g-11",
+   "offset": 53469353,
+   "size": 1185675,
+   "sha1": "4c78f19d421c8664ce33bfd14363ea7802c90273"
+  },
+  {
+   "name": "maps/fonts/jpn_DFGHSMGoth_anti_h_g-13",
+   "offset": 54655028,
+   "size": 1293995,
+   "sha1": "3d9c8cee22370689227a52fcc52aa2545c04aff2"
+  },
+  {
+   "name": "maps/fonts/jpn_DFGHSMGoth_anti_h_g-24",
+   "offset": 55949023,
+   "size": 2159277,
+   "sha1": "4754e7a82638d964a84eeba9c4c90569754f8592"
+  },
+  {
+   "name": "maps/fonts/kor_SdGD_M_anti_MSLCD-14",
+   "offset": 58108300,
+   "size": 1364328,
+   "sha1": "67ec4d405b1b79b34b90a5018c13c77861a3576e"
+  },
+  {
+   "name": "maps/fonts/kor_SdGD_M_anti_conduit-12",
+   "offset": 59472628,
+   "size": 1229832,
+   "sha1": "dd990fb342fca0d2fddd5ec9372142288f25e2a9"
+  },
+  {
+   "name": "maps/fonts/kor_SdGD_M_anti_conduit-13",
+   "offset": 60702460,
+   "size": 1280770,
+   "sha1": "5463a660f3c3b8ef13795c52caedc733192ba69d"
+  },
+  {
+   "name": "maps/fonts/kor_SdGD_M_anti_conduit-16",
+   "offset": 61983230,
+   "size": 1478785,
+   "sha1": "3aaba280bda023bba92eee66ff16afbac1d04602"
+  },
+  {
+   "name": "maps/fonts/kor_SdGD_M_anti_h_g-11",
+   "offset": 63462015,
+   "size": 1181353,
+   "sha1": "410254bf4e27bd2bda8ff24c7a70cc9eb6e554b9"
+  },
+  {
+   "name": "maps/fonts/kor_SdGD_M_anti_h_g-13",
+   "offset": 64643368,
+   "size": 1280408,
+   "sha1": "2b6320862313bd597e5951317533a1f5b288be4f"
+  },
+  {
+   "name": "maps/fonts/kor_SdGD_M_anti_h_g-24",
+   "offset": 65923776,
+   "size": 2060403,
+   "sha1": "c54aeecbf08d1f0601163c7419e48896c77a3e5e"
+  },
+  {
+   "name": "maps/mainmenu.map",
+   "offset": 67984179,
+   "size": 59670016,
+   "sha1": "f95538600e9c15d20c8436f03db1feea3968703f"
+  },
+  {
+   "name": "maps/shared.map",
+   "offset": 127654195,
+   "size": 183370752,
+   "sha1": "6d3f4336a8165bb6f760751ce91ac179b0268773"
+  },
+  {
+   "name": "maps/single_player_shared.map",
+   "offset": 311024947,
+   "size": 429017088,
+   "sha1": "228d58b6e3392b0dbb0d47913e37d1c82eeb45f6"
+  },
+  {
+   "name": "bink/intro_60.bik",
+   "offset": 740042035,
+   "size": 13312428,
+   "sha1": "b7d16e1b01a6ae0f077c6d4d1be7dd14a5268b18"
+  },
+  {
+   "name": "maps/00a_introduction.map",
+   "offset": 753354463,
+   "size": 113031168,
+   "sha1": "fddb49c40df164a610806803a4912497a0071681"
+  },
+  {
+   "name": "maps/01a_tutorial.map",
+   "offset": 866385631,
+   "size": 69169664,
+   "sha1": "1053a0370577a5318e042b086141346d931d3d4d"
+  },
+  {
+   "name": "maps/01b_spacestation.map",
+   "offset": 935555295,
+   "size": 248586240,
+   "sha1": "06396608af647a54e2366cfd65fa08fbd5986d2f"
+  },
+  {
+   "name": "maps/03a_oldmombasa.map",
+   "offset": 1184141535,
+   "size": 203507712,
+   "sha1": "7cdbff95a1fa67c6379721e8ccf2a2f3d7078ac5"
+  },
+  {
+   "name": "maps/03b_newmombasa.map",
+   "offset": 1387649247,
+   "size": 234307584,
+   "sha1": "d5eb45ee99ea472827da5447bafb7907922cb5cc"
+  },
+  {
+   "name": "maps/04a_gasgiant.map",
+   "offset": 1621956831,
+   "size": 194758656,
+   "sha1": "974478b83a4ca9a688ea708506e3eb953fc65e9a"
+  },
+  {
+   "name": "maps/04b_floodlab.map",
+   "offset": 1816715487,
+   "size": 199387136,
+   "sha1": "3f3b915867943c484f26ba1cd7c49ef8e7038d52"
+  },
+  {
+   "name": "maps/05a_deltaapproach.map",
+   "offset": 2016102623,
+   "size": 195034112,
+   "sha1": "39087b02248975d722b0dbc13ffc637214cac83c"
+  },
+  {
+   "name": "maps/05b_deltatowers.map",
+   "offset": 2211136735,
+   "size": 213932032,
+   "sha1": "680bfab26ff6ac6b44f185d5b047d92a2c612e94"
+  },
+  {
+   "name": "maps/06a_sentinelwalls.map",
+   "offset": 2425068767,
+   "size": 213370880,
+   "sha1": "5d23dbe34bbe1d8f11d374cd06b39076d90f4231"
+  },
+  {
+   "name": "maps/06b_floodzone.map",
+   "offset": 2638439647,
+   "size": 221074432,
+   "sha1": "ea14d9cd77aad21b8001efbecb51abb3facd2659"
+  },
+  {
+   "name": "maps/07a_highcharity.map",
+   "offset": 2859514079,
+   "size": 272911872,
+   "sha1": "464786c7e2a98bfa9e333a248c7eb6553c349641"
+  },
+  {
+   "name": "maps/07b_forerunnership.map",
+   "offset": 3132425951,
+   "size": 180540928,
+   "sha1": "47b1bc4d2da3fd6022c8cd05802eb8bb73b706c1"
+  },
+  {
+   "name": "maps/08a_deltacliffs.map",
+   "offset": 3312966879,
+   "size": 143452160,
+   "sha1": "93c5ef78165cea9e07c531a787e8c25f02804f18"
+  },
+  {
+   "name": "maps/08b_deltacontrol.map",
+   "offset": 3456419039,
+   "size": 262776832,
+   "sha1": "3a53bb72eb5b2c8fd6d937d57e44e80d2c73716e"
+  },
+  {
+   "name": "maps/ascension.map",
+   "offset": 3719195871,
+   "size": 29735936,
+   "sha1": "b310b2cb245c5603850169bbc9a8cdcf33db98f9"
+  },
+  {
+   "name": "maps/beavercreek.map",
+   "offset": 3748931807,
+   "size": 28942336,
+   "sha1": "285926a4ab8b7f4ba410d4efa40cca6f0575da3a"
+  },
+  {
+   "name": "maps/burial_mounds.map",
+   "offset": 3777874143,
+   "size": 32114688,
+   "sha1": "c605849a9f4b215636e65dd041a451c84c9f577c"
+  },
+  {
+   "name": "maps/coagulation.map",
+   "offset": 3809988831,
+   "size": 41397248,
+   "sha1": "281051098868972355b5dd18c615c616506f8204"
+  },
+  {
+   "name": "maps/colossus.map",
+   "offset": 3851386079,
+   "size": 31132160,
+   "sha1": "c31227da9cd5a2ba75d89e767f519f01886ae8da"
+  },
+  {
+   "name": "maps/cyclotron.map",
+   "offset": 3882518239,
+   "size": 46205952,
+   "sha1": "40618e720fc63a4a460e9dc44ee91da6bed25a16"
+  },
+  {
+   "name": "maps/foundation.map",
+   "offset": 3928724191,
+   "size": 37599232,
+   "sha1": "4a6361ba8e5ba40fe9eb674b835c148f386cf66f"
+  },
+  {
+   "name": "maps/headlong.map",
+   "offset": 3966323423,
+   "size": 56096256,
+   "sha1": "6a2841b5bfd9a5bede4346369e585968009bef32"
+  },
+  {
+   "name": "maps/lockout.map",
+   "offset": 4022419679,
+   "size": 34523136,
+   "sha1": "068f164d0f999e17a855ba6805f1dcb5b9f5a1c6"
+  },
+  {
+   "name": "maps/midship.map",
+   "offset": 4056942815,
+   "size": 30519808,
+   "sha1": "2dc40dc01f4553771779ff52edd4b755962bb459"
+  },
+  {
+   "name": "maps/waterworks.map",
+   "offset": 4087462623,
+   "size": 41352704,
+   "sha1": "77947d9c97951873e95dddfb8c7dbadbd63ee28e"
+  },
+  {
+   "name": "maps/zanzibar.map",
+   "offset": 4128815327,
+   "size": 53547008,
+   "sha1": "b75d15638faf3cb0542671eea9d1100643334242"
+  },
+  {
+   "name": "bink/attract_60.bik",
+   "offset": 4182362335,
+   "size": 123062620,
+   "sha1": "e51b29bd8382b4b644041d90f0e094c5580e10cf"
+  },
+  {
+   "name": "bink/credits_60.bik",
+   "offset": 4305424955,
+   "size": 353451156,
+   "sha1": "f70b66f79dabc58ca820147148a4216e4cd24b74"
+  }
+ ]
+}
